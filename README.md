@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3f40b4a-8425-4c22-807c-d12fbe061c2b)# fuck-kubstu-teacher-feedback
+# fuck-kubstu-teacher-feedback
 Исполняемый код JS прокликивает по всем 14 вопросам и ставит максимальную оценку преподавателям, скипает нудные опросы КубГТУ.
 
 # Инструкция:
