@@ -1,6 +1,9 @@
 # fuck-kubstu-teacher-feedback
 Исполняемый код JS прокликивает по всем 14 вопросам и ставит максимальную оценку преподавателям, скипает нудные опросы КубГТУ.
 
+# Демо
+![Alt text](https://github.com/aleksandrclucle/fuck-kubstu-teacher-feedback/blob/main/demo.gif?raw=true)
+
 # Инструкция:
 Перейти в одного из преподавателей:
 ![image](https://github.com/user-attachments/assets/ae50cf2e-296e-4d57-a8a1-cab08ede0ada)
